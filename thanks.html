@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Thank You!</title>
+    <style>
+      body {
+        background-image: url(https://wallpapercave.com/wp/wp11154298.jpg);
+        background-size: cover;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        font-family: Arial, sans-serif;
+      }
+
+      .thank-you-container {
+        opacity: 0;
+        animation: fade-in 2s ease-in-out forwards;
+      }
+
+      @keyframes fade-in {
+        0% {
+          opacity: 0;
+        }
+        100% {
+          opacity: 1;
+        }
+      }
+
+      .thank-you-container h1 {
+        font-size: 48px;
+        margin-bottom: 0;
+        font-style: inherit;
+      }
+
+      .thank-you-container p {
+        font-size: 24px;
+        margin-top: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="thank-you-container">
+      <h1 id="thank-you-text">Thank You!</h1>
+      <p id="purchase-text">Your purchase was successful!</p>
+    </div>
+  </body>
+</html>
