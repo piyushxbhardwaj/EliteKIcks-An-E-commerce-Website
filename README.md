@@ -1,3 +1,4 @@
+![Screenshot (82)](https://github.com/user-attachments/assets/e350a286-2320-4fa4-9188-1c0d3830628e)
 # EliteKIcks-An-E-commerce-Website
 EliteKicks is a sleek and responsive eCommerce website designed for sneaker enthusiasts and fashion aficionados. Built using HTML, CSS, and JavaScript, this project showcases a modern, user-friendly interface with a focus on functionality and aesthetic appeal.
 Features
