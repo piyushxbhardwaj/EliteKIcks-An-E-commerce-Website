@@ -41,6 +41,6 @@ bash
 Contribution
 
 Contributions are welcome! Feel free to submit a pull request or open an issue if you have suggestions or improvements.
-L
+
 
 Feel free to tweak this description to better fit any specific details or features you might want to highlight!
