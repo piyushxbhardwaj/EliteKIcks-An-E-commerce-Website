@@ -21,7 +21,7 @@ Installation and Usage
 
     bash
 
-git clone https://github.com/piyushxbhardwaj/elitekicks.git
+git clone https://github.com/piyushxbhardwaj/EliteKIcks-An-E-commerce-Website.git
 
 Navigate to the Project Directory:
 
